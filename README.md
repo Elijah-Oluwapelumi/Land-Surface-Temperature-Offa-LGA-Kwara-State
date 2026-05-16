@@ -8,23 +8,23 @@
 
 ---
 
-## 📌 Table of Contents
-- [🧠 Project Overview](#-project-overview)
-- [🎯 Objectives](#-objectives)
-- [🗺️ Study Area](#️-study-area)
-- [🛰️ Data Sources](#️-data-sources)
-- [🛠️ Tools & Technologies](#️-tools--technologies)
-- [🔄 Methodology](#-methodology)
-- [📊 Results & Insights](#-results--insights)
-- [🗺️ Spatial Analysis](#️-spatial-analysis)
-- [💡 Interpretation](#-interpretation)
-- [🧩 Conclusion](#-conclusion)
-- [🚀 Recommendations](#-recommendations)
+##  Table of Contents
+- [Project Overview](#project-overview)
+- [ Objectives](#objectives)
+- [ Study Area](#study-area)
+- [ Data Sources](#data-sources)
+- [ Tools & Technologies](#tools--technologies)
+- [ Methodology](#methodology)
+- [ Results & Insights](#results--insights)
+- [ Spatial Analysis](#spatial-analysis)
+- [ Interpretation](#interpretation)
+- [ Conclusion](#conclusion)
+- [ Recommendations](#recommendations)
  
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 Urban expansion is significantly altering local climate systems. This project analyzes **Land Surface Temperature (LST)** changes in Offa LGA over a 10-year period using satellite imagery.
 
@@ -32,7 +32,7 @@ By integrating **Remote Sensing and GIS**, this study identifies temperature pat
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze **LST variation (2014 vs 2024)**
 - Identify **Urban Heat Island patterns**
@@ -41,7 +41,7 @@ By integrating **Remote Sensing and GIS**, this study identifies temperature pat
 
 ---
 
-## 🗺️ Study Area
+##  Study Area
 
 📍 Offa Local Government Area, Kwara State, Nigeria  
 
@@ -52,7 +52,7 @@ By integrating **Remote Sensing and GIS**, this study identifies temperature pat
 
 ---
 
-## 🛰️ Data Sources
+##  Data Sources
 
 | Data | Source | Purpose |
 |------|--------|--------|
@@ -64,7 +64,7 @@ By integrating **Remote Sensing and GIS**, this study identifies temperature pat
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - ArcGIS Pro  
 - Remote Sensing Techniques  
@@ -73,7 +73,7 @@ By integrating **Remote Sensing and GIS**, this study identifies temperature pat
 
 ---
 
-## 🔄 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 - Import Landsat imagery into ArcGIS Pro  
@@ -164,7 +164,7 @@ To integrate brightness temperature and emissivity corrections to compute accura
 
  
 
-## 📊 Results & Insights
+##  Results & Insights
 
 | Year | Min Temp | Max Temp |
 |------|---------|---------|
@@ -183,7 +183,7 @@ To integrate brightness temperature and emissivity corrections to compute accura
 
 ---
 
-## 🗺️ Spatial Analysis
+##  Spatial Analysis
 
 - 🟢 **Cool Areas:** Vegetation & water bodies  
 - 🟡 **Moderate:** Mixed land use  
@@ -193,7 +193,7 @@ To integrate brightness temperature and emissivity corrections to compute accura
 
 ---
 
-## 💡 Interpretation
+##  Interpretation
 
 The observed temperature rise is driven by:
 
@@ -205,7 +205,7 @@ The observed temperature rise is driven by:
 
 ---
 
-## 🧩 Conclusion
+##  Conclusion
 
 This study reveals a **significant increase in Land Surface Temperature** over a decade.
 
@@ -217,7 +217,7 @@ It demonstrates how GIS and Remote Sensing can:
 
 ---
 
-## 🚀 Recommendations
+##  Recommendations
 
 - 🌱 Promote urban greening  
 - 🏗️ Adopt climate-smart infrastructure  
